@@ -1,0 +1,19 @@
+{
+  "name": "primerproyecto",
+  "version": "1.0.0",
+  "description": "Este es el primer proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardenalcopia/primerProyecto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cardenalcopia/primerProyecto/issues"
+  },
+  "homepage": "https://github.com/cardenalcopia/primerProyecto#readme"
+}
